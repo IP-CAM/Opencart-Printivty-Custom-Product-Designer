@@ -43,9 +43,15 @@ We have supported custom fonts and more than 1000 Google fonts on designer.
 We always update/extend more features for Printvity extension.
 
 --------------------------------------
-How to install? - Please refer here
+### How to install? - Please refer here: 
+
+https://help.9to5custom.com/knowledgebase.php?article=1
 --------------------------------------
-Changed logs:
+### Changed logs:
+
+Version 1.2.1:
+- Fixed download print file with custom fonts
+
 Version 1.2.0:
 - Fixed option required with add to cart
 - Fixed download svg print files with uploaded images
