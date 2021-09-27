@@ -49,6 +49,11 @@ https://help.9to5custom.com/knowledgebase.php?article=1
 --------------------------------------
 ### Changed logs:
 
+Version 1.2.2
+- Fixed export text
+- Improved download print files
+- Added option allow includes fonts on SVG
+
 Version 1.2.1:
 - Fixed download print file with custom fonts
 
